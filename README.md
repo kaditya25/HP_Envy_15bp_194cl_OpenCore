@@ -15,3 +15,5 @@ Attempt to hackintosh a 15" HP convertible\
 * Webcam
 * Display brightness keys
 * Shutdown (OS shuts down but laptop must be manually shut with the power button)
+### How to use
+Copy EFI folder and change config plist as needed (must add your own serial numbers for iServices to work)
