@@ -7,7 +7,7 @@ Attempt to hackintosh a 15" HP convertible\
 * USB 2/3/C ports mapped out
 * WiFi (using AirportItlwm; 5Ghz networks not supported)
 * Bluetooth
-* Trackpad Gestures
+* Trackpad gestures
 * Battery Indicator
 * ALC295 Speakers
 * Keyboard backlight and Volume keys
