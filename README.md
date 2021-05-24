@@ -14,4 +14,4 @@ Attempt to hackintosh a 15" HP convertible\
 ### What doesn't work (yet anyways)
 * Webcam
 * Display brightness keys
-* Shutdown
+* Shutdown (OS shuts down but laptop must be manually shut with the power button)
